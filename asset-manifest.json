@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Frontend-MERN2/static/js/main.68a89d10.chunk.js",
+    "main.js.map": "/Frontend-MERN2/static/js/main.68a89d10.chunk.js.map",
+    "runtime-main.js": "/Frontend-MERN2/static/js/runtime-main.e7b232f8.js",
+    "runtime-main.js.map": "/Frontend-MERN2/static/js/runtime-main.e7b232f8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Frontend-MERN2/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.28d72fb8.chunk.js": "/Frontend-MERN2/static/js/2.28d72fb8.chunk.js",
+    "static/js/2.28d72fb8.chunk.js.map": "/Frontend-MERN2/static/js/2.28d72fb8.chunk.js.map",
+    "index.html": "/Frontend-MERN2/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Frontend-MERN2/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.28d72fb8.chunk.js.LICENSE.txt": "/Frontend-MERN2/static/js/2.28d72fb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b232f8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.28d72fb8.chunk.js",
+    "static/js/main.68a89d10.chunk.js"
+  ]
+}
